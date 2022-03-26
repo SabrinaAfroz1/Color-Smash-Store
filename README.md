@@ -2,17 +2,19 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Available Scripts
+## LIVE SITE LINK
 
-In the project directory, you can run:
+https://stately-cannoli-4cc731.netlify.app/
 
-### `npm start`
+## PROJECT SHOP NAME
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+COLOR SMASH STORE
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+### `I face some minor problem when I deploy the site in netlify`
+
+All the items are arrange in 3 column . but after deploy in netlify, it shows in 2 column.
+Here is the actual site snapshot -(https://drive.google.com/drive/folders/1MUjkF8HT5eAi8RQamOkbDaXwYYZB8180?usp=sharing )
+I try my best to do this assignment.  
 
 ### `npm test`
 
