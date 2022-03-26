@@ -1,4 +1,31 @@
 
 .cart{
-    background-color: bisque; 
+    height: fit-content;
+    background-color: rgb(234, 244, 250); 
+    
+}
+
+.btn-choose1{
+    border: 1px solid green;
+    margin-right: 12px;
+color:green;
+margin-bottom: 20px;
+}
+.btn-choose2{
+    border: 1px solid red;
+    margin-left: 8px;
+color:red;
+margin-bottom: 20px;
+}
+.btn-choose1:hover{
+    background-color: green;
+    color:white;
+    font-weight: bold;
+    border:2px solid black;
+}
+.btn-choose2:hover{
+    background-color: red;
+    color:white;
+    font-weight: bold;
+    border:2px solid black;
 }
