@@ -1,0 +1,56 @@
+[
+    {
+        "id": "01",
+        "price": 6.29,
+        "name": "Crayola Washable Kids Paint",
+        "image": "./images/image01.jpg"
+    },
+    {
+        "id": "02",
+        "price": 27.99,
+        "name": "Washable Tempera Paint for Kids",
+        "image": "./images/image02.jpg"
+    },
+    {
+        "id": "03",
+        "price": 14.09,
+        "name": "Crayola Kids Paint Set,6 colors",
+        "image": "./images/image03.jpg"
+    },
+    {
+        "id": "04",
+        "price": 24.99,
+        "name": "Crayola Table Top Easel & Paint Set",
+        "image": "./images/image01.jpg"
+    },
+    {
+        "id": "05",
+        "price": 2.49,
+        "name": "Crayola Washable Watercolors",
+        "image": "./images/image05.jpg"
+    },
+    {
+        "id": "06",
+        "price": 19.79,
+        "name": "Sargent Art, Tempera Paint Sticks",
+        "image": "./images/image06.jpg"
+    },
+    {
+        "id": "07",
+        "price": 6.95,
+        "name": "Baker Ross AR466 Mini Paint Palette Set ",
+        "image": "./images/image07.jpg"
+    },
+    {
+        "id": "08",
+        "price": 7.57,
+        "name": "TBC The Best Crafts 12 Colors Watercolor ",
+        "image": "./images/image08.jpg"
+    },
+    {
+        "id": "09",
+        "price": 11.09,
+        "name": "The Pencil Grip Kwik Stix Paint Pens",
+        "image": "./images/image09.jpg"
+    }
+]
