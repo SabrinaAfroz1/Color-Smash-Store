@@ -5,10 +5,10 @@ const Cart = (props) => {
     const { name, price, image } = props.cart;
     return (
         <div className='cart-item'>
-            <div> <img src={image} alt=''></img></div>
+            <img src={image} alt=''></img>
 
-            <div>
-                <h5 className='card-title'>{name}</h5>
+            <div className='text-div'>
+                <p className='card-title'>{name}</p>
                 <p className='card-text text-success'>Price: $ {price}</p>
             </div>
 

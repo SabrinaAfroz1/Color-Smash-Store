@@ -1,8 +1,19 @@
 .cart-item img{
-    width:30%;
+width:25%;
  border-radius: 50%;
 }
 
 .cart-item{
     display: flex;
+    margin-bottom: 20px;
+    margin-top: 10px;
+    border: 1px solid goldenrod;
+    padding: 4px;
+    border-radius: 10px;
+}
+.text-div{
+    margin-left: 10px;
+    margin-top: 20px;
+    font-weight: bold;
+    font-size: 20px;
 }
