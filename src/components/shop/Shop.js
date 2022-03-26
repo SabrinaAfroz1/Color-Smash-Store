@@ -26,7 +26,7 @@ const Shop = () => {
 
     }
     const emptyCart = () => {
-        setCart(" ");
+        setCart([]);
     }
 
     return (

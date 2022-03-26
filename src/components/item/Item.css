@@ -14,9 +14,13 @@
 .btn-cart{
     width:100%;
     border:none;
+    background-color: purple;
+    color:white;
+    font-weight: bold;
+    font-size: 20px;
 
 }
 .btn-cart:hover{
-    background-color: rgb(161, 230, 166);
+    background-color: peru;
     color:black;
 }

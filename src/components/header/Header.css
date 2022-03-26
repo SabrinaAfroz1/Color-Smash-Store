@@ -1,5 +1,7 @@
 .header{
     text-align: center;
-    background-color: rgb(247, 216, 169);
+    background-color:purple;
     padding: 3px 3px;
+    color:white;
+    font-weight: bold;
 }

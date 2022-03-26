@@ -15,7 +15,7 @@ const Item = (props) => {
                 <h5 className='card-title'>{name}</h5>
                 <p className='card-text text-success'>Price: $ {price}</p>
 
-                <button type="button" onClick={() => addCart(item)} className='btn btn-cart btn-success'  > Add to cart
+                <button type="button" onClick={() => addCart(item)} className='btn btn-cart '  > Add to cart
                     <FontAwesomeIcon className='ms-3' icon={faShoppingCart}></FontAwesomeIcon>
                 </button>
 
